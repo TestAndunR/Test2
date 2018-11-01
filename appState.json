@@ -244,12 +244,12 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1541071167070
+    "lastSave": 1541071190158
   },
   "VCS_STATE": {
     "provider": "GitHub",
     "repo": {
-      "name": "test1",
+      "name": "test2",
       "url": "https://github.com/TestAndunR/test2"
     }
   }
